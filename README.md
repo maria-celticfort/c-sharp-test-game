@@ -1,4 +1,4 @@
-# c-sharp-test-game
+# Basic game engine + Lil' guy goes for snails (denmo game)
 
 I wanted to create something simple from 0 instead using Pygames (a game development oriented framework for Python) so I came along with this tiny project.
 
