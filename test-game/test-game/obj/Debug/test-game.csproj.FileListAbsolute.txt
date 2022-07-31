@@ -1,0 +1,8 @@
+C:\Users\maria\Desktop\repositorios\c-sharp-test-game\test-game\test-game\bin\Debug\test-game.exe.config
+C:\Users\maria\Desktop\repositorios\c-sharp-test-game\test-game\test-game\bin\Debug\test-game.exe
+C:\Users\maria\Desktop\repositorios\c-sharp-test-game\test-game\test-game\bin\Debug\test-game.pdb
+C:\Users\maria\Desktop\repositorios\c-sharp-test-game\test-game\test-game\obj\Debug\test-game.csproj.AssemblyReference.cache
+C:\Users\maria\Desktop\repositorios\c-sharp-test-game\test-game\test-game\obj\Debug\test-game.csproj.SuggestedBindingRedirects.cache
+C:\Users\maria\Desktop\repositorios\c-sharp-test-game\test-game\test-game\obj\Debug\test-game.csproj.CoreCompileInputs.cache
+C:\Users\maria\Desktop\repositorios\c-sharp-test-game\test-game\test-game\obj\Debug\test-game.exe
+C:\Users\maria\Desktop\repositorios\c-sharp-test-game\test-game\test-game\obj\Debug\test-game.pdb
